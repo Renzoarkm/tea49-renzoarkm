@@ -1,0 +1,23 @@
+{
+  "name": "tea49-renzoarkm",
+  "version": "1.0.1",
+  "description": "常用的表单验证",
+  "main": "validateForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Renzoarkm/tea49-renzoarkm.git"
+  },
+  "keywords": [],
+  "author": "Renzoarkm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renzoarkm/tea49-renzoarkm/issues"
+  },
+  "homepage": "https://github.com/Renzoarkm/tea49-renzoarkm#readme",
+  "dependencies": {
+    "tea01-tankqing88": "^1.0.0"
+  }
+}
